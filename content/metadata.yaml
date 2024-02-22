@@ -80,4 +80,12 @@ authors:
       - Clemson University
     funders: []
     corresponding: false
+- github: moirajsheehan
+    name: Moira J. Sheehan
+    initials: MJS
+    email: mjs224@cornell.edu
+    affiliations:
+      - Breeding Insight at Cornell University
+    funders: [Cooperative Agreements between USDA-ARS and Cornell (project numbers: 8062-21000-043-004-A, 8062-21000-052-002-A, and 8062-21000-052-003-A)]
+    corresponding: false
 
